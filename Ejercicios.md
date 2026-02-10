@@ -24,3 +24,19 @@
 En general, todas las IAs y el capítulo coinciden en que las IAs son sistemas que hacen tareas que normalmente requieren inteligencia humana; como aprender, razonar, reconocer patrones, entender lenguaje o tomar decisiones.
 
 2. **Definición de inteligencia artificial:** Es un sistema capaz de realizar procesos mentales tipicos de los humanos para hallar soluciones en varios campos de manera eficiente.
+
+3. **Análisis video:**
+**Xenobots:** Son estructuras biológicas diseñadas a partir de células vivas y configuradas mediante algoritmos computacionales para cumplir tareas específicas. A diferencia de los robots tradicionales, no están hechos de elementos inorganicos ni circuitos electrónicos, sino de materia viva organizada artificialmente.
+
+Estos sistemas plantea nuevas formas de entender la inteligencia artificial desde el enfoque de agentes inteligentes y los sistemas bio-inspirados, en primer lugar, un agente inteligente es una entidad capaz de percibir su entorno, procesar información, tomar decisiones y ejecutar acciones mediante actuadores. Los xenobots replican estas cualidades desde un enfoque orgánico:
+* Con persepción mediante gradientes químicos, contacto físico u otras condiciones del entorno.
+* Procesamiento o toma de decisiones a partir de respuestas colectivas de células u de su organización autónoma.
+* Actuan realizando movimientos (circular u otros), empujando partículas, agrupan materiales y se auto replican.
+
+
+**Promobots:** Son robots humanoides diseñados para interactuar socialmente con las personas, imitando la apariencia física, la voz y ciertos comportamientos humanos. Pueden configurarse para parecerse a una persona específica en apariencia y voz.
+De cierta manera, se centran en el enfoque de sistemas bio-inspirados, centrandose en imitar características humanas observables:
+
+* Morfología: Diseño físico inspirado en la anatomía humana (rostro, proporciones corporales, gestos).
+* Comportamiento: Simulación de expresiones faciales, tono de voz y lenguaje corporal.
+* Interacción social: Modelado de patrones de comunicación humana para generar naturalidad en la interacción.
