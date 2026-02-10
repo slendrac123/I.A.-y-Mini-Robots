@@ -93,5 +93,3 @@ El Gobierno Nacional formalizó su estrategia mediante el **CONPES 4144** (Polí
 * **Facultad de Inteligencia Artificial:** Centralización de la formación académica superior (ej. Universidad de Caldas).  
 * **Enfoque Regional:** Descentralización de la tecnología hacia territorios apartados, vinculándola con sostenibilidad.  
 * **Soberanía de Datos:** Reducción de dependencia de modelos extranjeros mediante el uso de datos locales.
-
-```
