@@ -26,6 +26,7 @@ En general, todas las IAs y el capítulo coinciden en que las IAs son sistemas q
 2. **Definición de inteligencia artificial:** Es un sistema capaz de realizar procesos mentales tipicos de los humanos para hallar soluciones en varios campos de manera eficiente.
 
 3. **Análisis video:**
+
 **Xenobots:** Son estructuras biológicas diseñadas a partir de células vivas y configuradas mediante algoritmos computacionales para cumplir tareas específicas. A diferencia de los robots tradicionales, no están hechos de elementos inorganicos ni circuitos electrónicos, sino de materia viva organizada artificialmente.
 
 Estos sistemas plantea nuevas formas de entender la inteligencia artificial desde el enfoque de agentes inteligentes y los sistemas bio-inspirados, en primer lugar, un agente inteligente es una entidad capaz de percibir su entorno, procesar información, tomar decisiones y ejecutar acciones mediante actuadores. Los xenobots replican estas cualidades desde un enfoque orgánico:
