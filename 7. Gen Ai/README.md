@@ -1,4 +1,12 @@
-## ⚠️ Nota importante sobre visualización **Ejercicio 3 de Gen AI**
+## ⚠️ Nota importante sobre visualización **Ejercicio 1 de Gen AI**
+
+Debido a limitaciones de GitHub, el archivo `Punto1.ipynb` no puede visualizarse correctamente en esta plataforma.
+
+Para facilitar su acceso y prueba, puedes abrirlo directamente en el siguiente enlace utilizando tu correo institucional de la Universidad Nacional de Colombia:
+
+🔗 https://drive.google.com/file/d/1PbH0z3ldvJQWV3v8p_b0_13s0SAzQXJ6/view?usp=sharing
+
+---## ⚠️ Nota importante sobre visualización **Ejercicio 3 de Gen AI**
 
 Debido a limitaciones de GitHub, el archivo `Ejercicio 3.ipynb` no puede visualizarse correctamente en esta plataforma.
 
